@@ -87,9 +87,10 @@ If you have any other component in mind which we should add or consider, please 
   - Splat
   - Unity
 	
-### 16. Profiling tools:
+### 16. Profiling/ Inspection tools:
   - Xamarin profiler
   - Xamarin Inspector
+  - UI Sleuth
 	
 ### 17. Databases:
   - SQLite
@@ -123,13 +124,13 @@ If you have any other component in mind which we should add or consider, please 
 	
 ### 24. Newsletter/ Feeds
   - Weekly Xamarin
-  - Planet Xamarins
+  - Planet Xamarin
 
 ### 25. Graphics Engines
   - SkiaSharp
   
 ### 26. Podcasts
-  - www.xamarinpodcast.com
+  - Xamarin Podcast
   - Gone mobile
   - Merge Conflict
 
@@ -141,10 +142,15 @@ If you have any other component in mind which we should add or consider, please 
   - Xamarin Evolve
   - Monkeyconf
   
-### 29. Special mentions
+### 29. Books
+  - Creating Mobile Apps with Xamarin.Forms
+  - Enterprise Application Patterns using Xamarin.Forms
+  - Xamarin in Action: Creating native cross-platform mobile apps
+  
+### 30. Special mentions
   - Xamarin Universe
   
-### 30. Others:	
+### 31. Others:	
 - Xamarin Essential
 	
 
