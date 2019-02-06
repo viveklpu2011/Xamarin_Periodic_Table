@@ -1,6 +1,9 @@
 # Xamarin_Periodic_Table
 Xamarin periodic table repo, this periodic table will include most of the Xamarin components present in the Xamarin Universe
 
+## Contributing
+If you have any other component in mind which we should add or consider, please clone the repo, add the changes and make a pull request to the dev branch. We will review and proceed accordingly.
+
 ## The RAW List
 
 ### 1. Languages:
