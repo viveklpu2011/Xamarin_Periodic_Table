@@ -1,10 +1,18 @@
 # Xamarin_Periodic_Table
 Xamarin periodic table repo, this periodic table will include most of the Xamarin components present in the Xamarin Universe
 
+## Vision
+What we are trying to achieve is something like this image, but with contents exclusively related to Xamarin.
+</br>
+![vision](img/pt.jpg)
+</br>
+Once the list is finalized we will convert it to an image, and that would be showcased in the [Xamarin Universe](https://github.com/xamarinuniverse/XamarinUniversalLibrary), website. 
+
 ## Contributing
 If you have any other component in mind which we should add or consider, please clone the repo, add the changes and make a pull request to the dev branch. We will review and proceed accordingly.
 
 ## The RAW List
+This the raw list which we have curated till now, feel free to add a subpoint or a section all together.
 
 ### 1. Languages:
   - C#
