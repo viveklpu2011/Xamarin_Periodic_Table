@@ -128,7 +128,15 @@ If you have any other component in mind which we should add or consider, please 
 ### 25. Graphics Engines
   - SkiaSharp
   
-### 26. Others:	
+### 26. Podcasts
+  - www.xamarinpodcast.com
+  - Gone mobile
+  - Merge Conflict
+  
+### 27. Special mentions
+  - Xamarin Universe
+  
+### 28. Others:	
 - Xamarin Essential
 	
 
