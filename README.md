@@ -48,7 +48,7 @@ If you have any other component in mind which we should add or consider, please 
 ### 8. Build tools:
   - MSBuild
 	
-  ### 9. Development approach:
+### 9. Development approach:
   - Xamarin Forms
   - Xamarin Native
   - Xamarin Native Forms
@@ -137,10 +137,14 @@ If you have any other component in mind which we should add or consider, please 
   - Mono.Android
   - Mono.Touch
   
-### 28. Special mentions
+### 28. Developer conference
+  - Xamarin Evolve
+  - Monkeyconf
+  
+### 29. Special mentions
   - Xamarin Universe
   
-### 29. Others:	
+### 30. Others:	
 - Xamarin Essential
 	
 
