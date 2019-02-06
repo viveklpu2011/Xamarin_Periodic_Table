@@ -36,43 +36,37 @@ If you have any other component in mind which we should add or consider, please 
   - Gorilla
   - Live Reload
 	
-### 6. Code Refractoring:
-  - mFractor
-  - XAML Styler
-  - Codemaid
-  - ReSharper
-	
-### 7. Other Extensions:
+### 6. Other Extensions:
   - TBD
 	
-### 8. Build tools:
+### 7. Build tools:
   - MSBuild
 	
-### 9. Development approach:
+### 8. Development approach:
   - Xamarin Forms
   - Xamarin Native
   - Xamarin Native Forms
 
-### 10. Code Sharing Strategies:
+### 9. Code Sharing Strategies:
   - .NET Standard
   - Shared project
   - .Net Standard + Shared (Mixed)
 	
-### 11. UI Development tools:
+### 10. UI Development tools:
   - Zeplyn
   - Inc to code
 	
-### 12. Ready to use UI components:
+### 11. Ready to use UI components:
   - Syncfusion
   - Telerik
   - Infragistics
   - Grial
 	
-### 13. Charts:
+### 12. Charts:
   - MicroCharts
   - OxyPlot
 	
-### 14. MVVM Frameworks:
+### 13. MVVM Frameworks:
   - Prism
   - MvvmCross
   - MVVMLight
@@ -80,78 +74,59 @@ If you have any other component in mind which we should add or consider, please 
   - ReactiveUI
   - Caliburn.Micro
 	
-### 15. Popular IoC Containers:
-  - TinyIoC
-  - Autofac
-  - Ninject
-  - Splat
-  - Unity
-	
-### 16. Profiling/ Inspection tools:
+### 14. Profiling/ Inspection tools:
   - Xamarin profiler
   - Xamarin Inspector
   - UI Sleuth
 	
-### 17. Databases:
+### 15. Databases:
   - SQLite
   - Realm
   - Azure Storage
   - Akavache
 	
-### 18. Popular Architechtures:
+### 16. Popular Architechtures:
   - MVVM
   - MVP
   - MVC
 	
-### 19. Game Engines/ AR:
+### 17. Game Engines/ AR:
   - CocosSharp
   - UrhoSharp
   - MonoGame
 	
-### 20. Image loading:
-  - FFIMageLoading
-  - Splat
-	
-### 21. Fault handling:
-  - Polly
-	
-### 22. Animations:
-  - Lottie
-	
-### 23. Official Learning platforms:
+### 18. Official Learning platforms:
   - MS Learn (Xamarin University)
   - The Xamarin Show
+  - Xamarin Microsoft docs
 	
-### 24. Newsletter/ Feeds
+### 19. Newsletter/ Feeds
   - Weekly Xamarin
   - Planet Xamarin
 
-### 25. Graphics Engines
+### 20. Graphics Engines
   - SkiaSharp
   
-### 26. Podcasts
+### 21. Podcasts
   - Xamarin Podcast
   - Gone mobile
   - Merge Conflict
 
-### 27. Runtime engines:
+### 22. Runtime engines:
   - Mono.Android
   - Mono.Touch
   
-### 28. Developer conference
+### 23. Developer conference
   - Xamarin Evolve
   - Monkeyconf
   
-### 29. Books
-  - Creating Mobile Apps with Xamarin.Forms
-  - Enterprise Application Patterns using Xamarin.Forms
-  - Xamarin in Action: Creating native cross-platform mobile apps
-  
-### 30. Special mentions
+### 24. Special mentions
   - Xamarin Universe
   
-### 31. Others:	
+### 25. Others:	
 - Xamarin Essential
+- mFractor
+- Creating Mobile Apps with Xamarin.Forms charles petzolds
 	
 
 	
